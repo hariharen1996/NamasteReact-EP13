@@ -1,0 +1,2617 @@
+[
+  {
+    "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+    "title": "Sweet",
+    "itemCards": [
+      {
+        "card": {
+          "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+          "info": {
+            "id": "120284132",
+            "name": "Agra Taj Petha 200G",
+            "category": "Sweet",
+            "description": "Serves 1 | Soft, chewy, sweet cubes of pumkin, speciality of Tajmahal 200gms",
+            "imageId": "yma8pxwhjm98mfuqgubz",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 6000,
+            "variants": {},
+            "variantsV2": {},
+            "itemAttribute": {
+              "vegClassifier": "VEG",
+              "portionSize": "Serves 1"
+            },
+            "ribbon": {},
+            "type": "ITEM",
+            "itemBadge": {},
+            "badgesV2": {},
+            "ratings": {
+              "aggregatedRating": {}
+            }
+          },
+          "analytics": {},
+          "hideRestaurantDetails": true
+        }
+      },
+      {
+        "card": {
+          "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+          "info": {
+            "id": "120284966",
+            "name": "Kaju Chocolate Laddu 500 Gm",
+            "category": "Sweet",
+            "description": "Serves 1",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 63500,
+            "variants": {},
+            "variantsV2": {},
+            "itemAttribute": {
+              "vegClassifier": "VEG",
+              "portionSize": "Serves 1"
+            },
+            "ribbon": {},
+            "type": "ITEM",
+            "itemBadge": {},
+            "badgesV2": {},
+            "ratings": {
+              "aggregatedRating": {}
+            }
+          },
+          "analytics": {},
+          "hideRestaurantDetails": true
+        }
+      },
+      {
+        "card": {
+          "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+          "info": {
+            "id": "120285008",
+            "name": "Strawberry Halwa 200 Gm",
+            "category": "Sweet",
+            "description": "Serves 1",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 6000,
+            "variants": {},
+            "variantsV2": {},
+            "itemAttribute": {
+              "vegClassifier": "VEG",
+              "portionSize": "Serves 1"
+            },
+            "ribbon": {},
+            "type": "ITEM",
+            "itemBadge": {},
+            "badgesV2": {},
+            "ratings": {
+              "aggregatedRating": {}
+            }
+          },
+          "analytics": {},
+          "hideRestaurantDetails": true
+        }
+      },
+      {
+        "card": {
+          "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+          "info": {
+            "id": "123366088",
+            "name": "Haldiram's Special Jalebi (Desi Ghee)",
+            "category": "Sweet",
+            "description": "Serves 1",
+            "imageId": "6ea0ed471164dd86f7e2ff10e84852b4",
+            "inStock": 1,
+            "isVeg": 1,
+            "variants": {},
+            "variantsV2": {
+              "variantGroups": [
+                {
+                  "groupId": "31442123",
+                  "name": "Size",
+                  "variations": [
+                    {
+                      "name": "1 kg",
+                      "price": 600,
+                      "id": "97367296",
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    },
+                    {
+                      "name": "500gms",
+                      "price": 300,
+                      "id": "97367297",
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    },
+                    {
+                      "name": "250 GM",
+                      "price": 150,
+                      "default": 1,
+                      "id": "97367298",
+                      "inStock": 1,
+                      "isVeg": 1,
+                      "isEnabled": 1
+                    }
+                  ]
+                }
+              ],
+              "pricingModels": [
+                {
+                  "variations": [
+                    {
+                      "groupId": "31442123",
+                      "variationId": "97367296"
+                    }
+                  ],
+                  "price": 60000
+                },
+                {
+                  "variations": [
+                    {
+                      "groupId": "31442123",
+                      "variationId": "97367297"
+                    }
+                  ],
+                  "price": 30000
+                },
+                {
+                  "variations": [
+                    {
+                      "groupId": "31442123",
+                      "variationId": "97367298"
+                    }
+                  ],
+                  "price": 15000
+                }
+              ]
+            },
+            "itemAttribute": {
+              "vegClassifier": "VEG",
+              "portionSize": "Serves 1"
+            },
+            "defaultPrice": 15000,
+            "ribbon": {
+              "text": "Bestseller",
+              "textColor": "#ffffff",
+              "topBackgroundColor": "#d53d4c",
+              "bottomBackgroundColor": "#b02331"
+            },
+            "type": "ITEM",
+            "itemBadge": {},
+            "badgesV2": {},
+            "isBestseller": true,
+            "ratings": {
+              "aggregatedRating": {
+                "rating": "4.6",
+                "ratingCount": "10 ratings",
+                "ratingCountV2": "10"
+              }
+            }
+          },
+          "analytics": {},
+          "hideRestaurantDetails": true
+        }
+      },
+      {
+        "card": {
+          "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+          "info": {
+            "id": "120284135",
+            "name": "Agra Taj Petha 350Gm",
+            "category": "Sweet",
+            "description": "Serves 1 | Soft, chewy, sweet cubes of pumkin, speciality of Tajmahal 350 gms",
+            "imageId": "yma8pxwhjm98mfuqgubz",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 9500,
+            "variants": {},
+            "variantsV2": {},
+            "itemAttribute": {
+              "vegClassifier": "VEG",
+              "portionSize": "Serves 1"
+            },
+            "ribbon": {},
+            "type": "ITEM",
+            "itemBadge": {},
+            "badgesV2": {},
+            "ratings": {
+              "aggregatedRating": {}
+            }
+          },
+          "analytics": {},
+          "hideRestaurantDetails": true
+        }
+      },
+      {
+        "card": {
+          "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+          "info": {
+            "id": "120284141",
+            "name": "Anjeer Df Burfee 500 Gm",
+            "category": "Sweet",
+            "description": "Serves 1 | A luxurious combination of distinctive textures and flavours of almonds, pistachios, cashews and figs. Reward yourself with Haldiram's Anjeer Dry Fruits Burfee, a delicious powerhouse of energy that keeps you going between meals.\nPack Size\n500 gm",
+            "imageId": "u5nwigjbwczz5ggyffh2",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 81000,
+            "variants": {},
+            "variantsV2": {},
+            "itemAttribute": {
+              "vegClassifier": "VEG",
+              "portionSize": "Serves 1"
+            },
+            "ribbon": {},
+            "type": "ITEM",
+            "itemBadge": {},
+            "badgesV2": {},
+            "ratings": {
+              "aggregatedRating": {}
+            }
+          },
+          "analytics": {},
+          "hideRestaurantDetails": true
+        }
+      },
+      {
+        "card": {
+          "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+          "info": {
+            "id": "120284145",
+            "name": "Assorted Khaleji 120 Gm",
+            "category": "Sweet",
+            "description": "Serves 1 | Dates stuffed with dry fruits 120gms",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 18500,
+            "variants": {},
+            "variantsV2": {},
+            "itemAttribute": {
+              "vegClassifier": "VEG",
+              "portionSize": "Serves 1"
+            },
+            "ribbon": {},
+            "type": "ITEM",
+            "itemBadge": {},
+            "badgesV2": {},
+            "ratings": {
+              "aggregatedRating": {}
+            }
+          },
+          "analytics": {},
+          "hideRestaurantDetails": true
+        }
+      },
+      {
+        "card": {
+          "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+          "info": {
+            "id": "120284160",
+            "name": "Cham Cham 1 Kg",
+            "category": "Sweet",
+            "description": "Serves 1 | Decadent chenna (fresh curd cheese) dumplings soaked in sweet syrup flavoured with rose, saffron and cardamoms. A Haldiram's classic offering, Cham Cham never goes out of style! Roll them in some desiccated coconut to enjoy this Bengali authenticity. 1kg",
+            "imageId": "wst2bq5c9bprvkdtahsd",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 22500,
+            "variants": {},
+            "variantsV2": {},
+            "itemAttribute": {
+              "vegClassifier": "VEG",
+              "portionSize": "Serves 1"
+            },
+            "ribbon": {},
+            "type": "ITEM",
+            "itemBadge": {},
+            "badgesV2": {},
+            "ratings": {
+              "aggregatedRating": {}
+            }
+          },
+          "analytics": {},
+          "hideRestaurantDetails": true
+        }
+      },
+      {
+        "card": {
+          "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+          "info": {
+            "id": "120284165",
+            "name": "Desi Ghee 1 Ltr Tin",
+            "category": "Sweet",
+            "description": "Serves 1 | DESI GHEE",
+            "imageId": "hrcvjd56bc4xkt9w53eq",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 64000,
+            "variants": {},
+            "variantsV2": {},
+            "itemAttribute": {
+              "vegClassifier": "VEG",
+              "portionSize": "Serves 1"
+            },
+            "ribbon": {},
+            "type": "ITEM",
+            "itemBadge": {},
+            "badgesV2": {},
+            "ratings": {
+              "aggregatedRating": {}
+            }
+          },
+          "analytics": {},
+          "hideRestaurantDetails": true
+        }
+      },
+      {
+        "card": {
+          "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+          "info": {
+            "id": "120284171",
+            "name": "Dodha Burfee 500 Gm",
+            "category": "Sweet",
+            "description": "Serves 1 | Thick, creamy milk fudge made with desi ghee, generously topped with shredded coconut and crunchy cashews. This classic offering from Punjab is indulgently delicious and loaded with nutrition. Enjoy this timeless traditional sweet treat of Haldiram's Dodha Burfee! 500 GM",
+            "imageId": "yetpcm7ezuo5vj9nhx82",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 40000,
+            "variants": {},
+            "variantsV2": {},
+            "itemAttribute": {
+              "vegClassifier": "VEG",
+              "portionSize": "Serves 1"
+            },
+            "ribbon": {},
+            "type": "ITEM",
+            "itemBadge": {},
+            "badgesV2": {},
+            "ratings": {
+              "aggregatedRating": {}
+            }
+          },
+          "analytics": {},
+          "hideRestaurantDetails": true
+        }
+      },
+      {
+        "card": {
+          "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+          "info": {
+            "id": "120284172",
+            "name": "Dodha Burfee 250Gm",
+            "category": "Sweet",
+            "description": "Serves 1 | Thick, creamy milk fudge made with desi ghee, generously topped with shredded coconut and crunchy cashews. This classic offering from Punjab is indulgently delicious and loaded with nutrition. Enjoy this timeless traditional sweet treat of Haldiram's Dodha Burfee! 250GM",
+            "imageId": "yetpcm7ezuo5vj9nhx82",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 20000,
+            "variants": {},
+            "variantsV2": {},
+            "itemAttribute": {
+              "vegClassifier": "VEG",
+              "portionSize": "Serves 1"
+            },
+            "ribbon": {},
+            "type": "ITEM",
+            "itemBadge": {},
+            "badgesV2": {},
+            "ratings": {
+              "aggregatedRating": {}
+            }
+          },
+          "analytics": {},
+          "hideRestaurantDetails": true
+        }
+      },
+      {
+        "card": {
+          "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+          "info": {
+            "id": "120284190",
+            "name": "Gulab Jamun Tin 500Gm",
+            "category": "Sweet",
+            "description": "Serves 1",
+            "imageId": "wwsewgj3j5vbhpunalut",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 12500,
+            "variants": {},
+            "variantsV2": {},
+            "itemAttribute": {
+              "vegClassifier": "VEG",
+              "portionSize": "Serves 1"
+            },
+            "ribbon": {
+              "text": "Bestseller",
+              "textColor": "#ffffff",
+              "topBackgroundColor": "#d53d4c",
+              "bottomBackgroundColor": "#b02331"
+            },
+            "type": "ITEM",
+            "itemBadge": {},
+            "badgesV2": {},
+            "isBestseller": true,
+            "ratings": {
+              "aggregatedRating": {
+                "rating": "5.0",
+                "ratingCount": "4 ratings",
+                "ratingCountV2": "4"
+              }
+            }
+          },
+          "analytics": {},
+          "hideRestaurantDetails": true
+        }
+      },
+      {
+        "card": {
+          "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+          "info": {
+            "id": "120284196",
+            "name": "Kaju Chocolate Laddu 250 Gm",
+            "category": "Sweet",
+            "description": "Serves 1 | New avatar of ladoo is here - fine cashews and decadent chocolate rolled into delicious dessert balls. This signature Haldiram's recipe makes a wonderful personal treat for the young ones and the old alike! 250 GM",
+            "imageId": "sbzt1qqpq5bffxlnyh9q",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 32000,
+            "variants": {},
+            "variantsV2": {},
+            "itemAttribute": {
+              "vegClassifier": "VEG",
+              "portionSize": "Serves 1"
+            },
+            "ribbon": {},
+            "type": "ITEM",
+            "itemBadge": {},
+            "badgesV2": {},
+            "ratings": {
+              "aggregatedRating": {}
+            }
+          },
+          "analytics": {},
+          "hideRestaurantDetails": true
+        }
+      },
+      {
+        "card": {
+          "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+          "info": {
+            "id": "120284202",
+            "name": "Kaju Chocolate Roll 500 Gm",
+            "category": "Sweet",
+            "description": "Serves 1 | Luxurious and chocolatey cashews wrapped in indulgent chocolate shavings. Haldiram's Kaju Chocolate Roll is a signature dessert made to satisfy your chocolate and cashew nut cravings, all at once! 500 GM",
+            "imageId": "ddvplwferjs7mtylqvlw",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 57500,
+            "variants": {},
+            "variantsV2": {},
+            "itemAttribute": {
+              "vegClassifier": "VEG",
+              "portionSize": "Serves 1"
+            },
+            "ribbon": {},
+            "type": "ITEM",
+            "itemBadge": {},
+            "badgesV2": {},
+            "ratings": {
+              "aggregatedRating": {}
+            }
+          },
+          "analytics": {},
+          "hideRestaurantDetails": true
+        }
+      },
+      {
+        "card": {
+          "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+          "info": {
+            "id": "120284214",
+            "name": "Kaju Roll 500 Gm",
+            "category": "Sweet",
+            "description": "Serves 1 | Flavours of pistachios and cardamom wrapped in a soft, indulgent layer of cashew nut fudge. Haldiram's Kaju Roll is a signature dessert made with only the finest of cashews! Treat your loved ones to something extra special this festive season. 500 GM",
+            "imageId": "h4ebyrn97pcq0mfk5ibk",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 57500,
+            "variants": {},
+            "variantsV2": {},
+            "itemAttribute": {
+              "vegClassifier": "VEG",
+              "portionSize": "Serves 1"
+            },
+            "ribbon": {},
+            "type": "ITEM",
+            "itemBadge": {},
+            "badgesV2": {},
+            "ratings": {
+              "aggregatedRating": {}
+            }
+          },
+          "analytics": {},
+          "hideRestaurantDetails": true
+        }
+      },
+      {
+        "card": {
+          "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+          "info": {
+            "id": "120284219",
+            "name": "Kaju Sangam Burfee 250 Gm",
+            "category": "Sweet",
+            "description": "Serves 1 | An interesting combimantion of Orange and Cashew fused into each other, giving a new taste alltogether 250 GM",
+            "imageId": "ouwojs0vnzjup0af2esk",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 25000,
+            "variants": {},
+            "variantsV2": {},
+            "itemAttribute": {
+              "vegClassifier": "VEG",
+              "portionSize": "Serves 1"
+            },
+            "ribbon": {},
+            "type": "ITEM",
+            "itemBadge": {},
+            "badgesV2": {},
+            "ratings": {
+              "aggregatedRating": {}
+            }
+          },
+          "analytics": {},
+          "hideRestaurantDetails": true
+        }
+      },
+      {
+        "card": {
+          "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+          "info": {
+            "id": "120284225",
+            "name": "Khajur Df Burfee 500 Gm",
+            "category": "Sweet",
+            "description": "Serves 1 | Khajur Dry Fruits Burfee will delight everyone's taste buds with the unique taste of khaiur and the distinctive textures of almonds, pistachios and cashews. This delicacy uses natural flavours and dry fruits to create a luxurious indulgence that is loved by everyone! 500 GM",
+            "imageId": "myvawapy8bxe7xwo1lho",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 58000,
+            "variants": {},
+            "variantsV2": {},
+            "itemAttribute": {
+              "vegClassifier": "VEG",
+              "portionSize": "Serves 1"
+            },
+            "ribbon": {},
+            "type": "ITEM",
+            "itemBadge": {},
+            "badgesV2": {},
+            "ratings": {
+              "aggregatedRating": {}
+            }
+          },
+          "analytics": {},
+          "hideRestaurantDetails": true
+        }
+      },
+      {
+        "card": {
+          "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+          "info": {
+            "id": "120284230",
+            "name": "Mathura Peda 250 Gm",
+            "category": "Sweet",
+            "description": "Serves 1 | Mathura Peda – a classic Indian sweet made with milk solids and sugar. very delicious  250 GM",
+            "imageId": "xajsfkzmm2jaffchsils",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 19000,
+            "variants": {},
+            "variantsV2": {},
+            "itemAttribute": {
+              "vegClassifier": "VEG",
+              "portionSize": "Serves 1"
+            },
+            "ribbon": {},
+            "type": "ITEM",
+            "itemBadge": {},
+            "badgesV2": {},
+            "ratings": {
+              "aggregatedRating": {}
+            }
+          },
+          "analytics": {},
+          "hideRestaurantDetails": true
+        }
+      },
+      {
+        "card": {
+          "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+          "info": {
+            "id": "120284231",
+            "name": "Milk Cake 250 Gm",
+            "category": "Sweet",
+            "description": "Serves 1 | A classic Indian Sweet , Prepared with milk and sugar , enriched with the flavours of cardamom 250 GM",
+            "imageId": "ptzcu15hvcftzwxptlj5",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 19500,
+            "variants": {},
+            "variantsV2": {},
+            "itemAttribute": {
+              "vegClassifier": "VEG",
+              "portionSize": "Serves 1"
+            },
+            "ribbon": {},
+            "type": "ITEM",
+            "itemBadge": {},
+            "badgesV2": {},
+            "ratings": {
+              "aggregatedRating": {
+                "rating": "5.0",
+                "ratingCount": "3 ratings",
+                "ratingCountV2": "3"
+              }
+            }
+          },
+          "analytics": {},
+          "hideRestaurantDetails": true
+        }
+      },
+      {
+        "card": {
+          "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+          "info": {
+            "id": "120284232",
+            "name": "Milk Cake 500Gm",
+            "category": "Sweet",
+            "description": "Serves 1 | A classic Indian Sweet , Prepared with milk and sugar , enriched with the flavours of cardamom 500GM",
+            "imageId": "ptzcu15hvcftzwxptlj5",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 38000,
+            "variants": {},
+            "variantsV2": {},
+            "itemAttribute": {
+              "vegClassifier": "VEG",
+              "portionSize": "Serves 1"
+            },
+            "ribbon": {
+              "text": "Bestseller",
+              "textColor": "#ffffff",
+              "topBackgroundColor": "#d53d4c",
+              "bottomBackgroundColor": "#b02331"
+            },
+            "type": "ITEM",
+            "itemBadge": {},
+            "badgesV2": {},
+            "isBestseller": true,
+            "ratings": {
+              "aggregatedRating": {}
+            }
+          },
+          "analytics": {},
+          "hideRestaurantDetails": true
+        }
+      },
+      {
+        "card": {
+          "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+          "info": {
+            "id": "120284241",
+            "name": "Mango Burfee 250Gm",
+            "category": "Sweet",
+            "description": "Serves 1 | \"A complete royal and flavourful delight from Haldiram’s. This mouth watering Mango Burfee with alphonso mangoes, blended with milk \nsolids (khoa). With mango being the king of all fruits, this rich delicacy is \nan absolute delight across all occasions. 250GM\"",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 17000,
+            "variants": {},
+            "variantsV2": {},
+            "itemAttribute": {
+              "vegClassifier": "VEG",
+              "portionSize": "Serves 1"
+            },
+            "ribbon": {},
+            "type": "ITEM",
+            "itemBadge": {},
+            "badgesV2": {},
+            "ratings": {
+              "aggregatedRating": {}
+            }
+          },
+          "analytics": {},
+          "hideRestaurantDetails": true
+        }
+      },
+      {
+        "card": {
+          "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+          "info": {
+            "id": "120284244",
+            "name": "Moong Burfee 500 Gm",
+            "category": "Sweet",
+            "description": "Serves 1 | Delightful squares of moong dal fudge with crunchy almonds and cardomon, giving it a delicious edge. Haldiram's Moong Burfee is a classic recipe enhanced by the flavours of saffron. Share this satisfying treat with your family and friends, anytime and anywhere! 500 GM",
+            "imageId": "yvak6edh5ikglzvauwe0",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 36000,
+            "variants": {},
+            "variantsV2": {},
+            "itemAttribute": {
+              "vegClassifier": "VEG",
+              "portionSize": "Serves 1"
+            },
+            "ribbon": {},
+            "type": "ITEM",
+            "itemBadge": {},
+            "badgesV2": {},
+            "ratings": {
+              "aggregatedRating": {}
+            }
+          },
+          "analytics": {},
+          "hideRestaurantDetails": true
+        }
+      },
+      {
+        "card": {
+          "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+          "info": {
+            "id": "120120282",
+            "name": "Mung Dal Halwa",
+            "category": "Sweet",
+            "description": "Serves 1 | Moong lentil pudding made with pure ghee, combined with the finest almonds, pistachio and topped with saffron.",
+            "imageId": "t3c4hmhudk5y4tzmcfrx",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 13000,
+            "variants": {},
+            "variantsV2": {},
+            "itemAttribute": {
+              "vegClassifier": "VEG",
+              "portionSize": "Serves 1"
+            },
+            "ribbon": {},
+            "type": "ITEM",
+            "itemBadge": {},
+            "badgesV2": {},
+            "ratings": {
+              "aggregatedRating": {}
+            }
+          },
+          "analytics": {},
+          "hideRestaurantDetails": true
+        }
+      },
+      {
+        "card": {
+          "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+          "info": {
+            "id": "120284253",
+            "name": "My Treat Rasgulla 120 Gm",
+            "category": "Sweet",
+            "description": "Serves 1 | Juicy, fluffy, indulgent treats of rasgulla soaked in sugar syrup. 120 GM",
+            "imageId": "pydnovnrqas9frekxenj",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 4000,
+            "variants": {},
+            "variantsV2": {},
+            "itemAttribute": {
+              "vegClassifier": "VEG",
+              "portionSize": "Serves 1"
+            },
+            "ribbon": {},
+            "type": "ITEM",
+            "itemBadge": {},
+            "badgesV2": {},
+            "ratings": {
+              "aggregatedRating": {}
+            }
+          },
+          "analytics": {},
+          "hideRestaurantDetails": true
+        }
+      },
+      {
+        "card": {
+          "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+          "info": {
+            "id": "120284255",
+            "name": "Mysore Pak 250Gm",
+            "category": "Sweet",
+            "description": "Serves 1 | Complex flavours and simple textures are combined in this classic Mysore Pak recipe, to make a beloved sweet delicacy. Haldiram's Milk Mysore Pak is a signature recipe made with desi ghee and gram flour. This milky confection is a perfect end to any meal with your loved ones. 250GM",
+            "imageId": "ws102koegugdvfiuefyy",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 17500,
+            "variants": {},
+            "variantsV2": {},
+            "itemAttribute": {
+              "vegClassifier": "VEG",
+              "portionSize": "Serves 1"
+            },
+            "ribbon": {},
+            "type": "ITEM",
+            "itemBadge": {},
+            "badgesV2": {},
+            "ratings": {
+              "aggregatedRating": {}
+            }
+          },
+          "analytics": {},
+          "hideRestaurantDetails": true
+        }
+      },
+      {
+        "card": {
+          "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+          "info": {
+            "id": "120284258",
+            "name": "Mysore Pak 500 Gm",
+            "category": "Sweet",
+            "description": "Serves 1 | Complex flavours and simple textures are combined in this classic Mysore Pak recipe, to make a beloved sweet delicacy. Haldiram's Milk Mysore Pak is a signature recipe made with desi ghee and gram flour. This milky confection is a perfect end to any meal with your loved ones. 500 GM",
+            "imageId": "ws102koegugdvfiuefyy",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 35000,
+            "variants": {},
+            "variantsV2": {},
+            "itemAttribute": {
+              "vegClassifier": "VEG",
+              "portionSize": "Serves 1"
+            },
+            "ribbon": {},
+            "type": "ITEM",
+            "itemBadge": {},
+            "badgesV2": {},
+            "ratings": {
+              "aggregatedRating": {}
+            }
+          },
+          "analytics": {},
+          "hideRestaurantDetails": true
+        }
+      },
+      {
+        "card": {
+          "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+          "info": {
+            "id": "120284266",
+            "name": "Orange Soan Papdi 500 Gm",
+            "category": "Sweet",
+            "description": "Serves 1 | \"Classic soan papdi featuring the refreshing flavour of fresh oranges. \nEqual parts of sweet and tangy, this Haldiram's original recipe is a \ntribute to the fresh harvests of our hometown - Nagpur. Grab a box of \nOrange Soan Papdi to treat the inner child in you!\n 500 GM\"",
+            "imageId": "wg1bbainhysquhnzqlo8",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 13000,
+            "variants": {},
+            "variantsV2": {},
+            "itemAttribute": {
+              "vegClassifier": "VEG",
+              "portionSize": "Serves 1"
+            },
+            "ribbon": {},
+            "type": "ITEM",
+            "itemBadge": {},
+            "badgesV2": {},
+            "ratings": {
+              "aggregatedRating": {}
+            }
+          },
+          "analytics": {},
+          "hideRestaurantDetails": true
+        }
+      },
+      {
+        "card": {
+          "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+          "info": {
+            "id": "120284274",
+            "name": "Rajasthani Pedha 250 Gm",
+            "category": "Sweet",
+            "description": "Serves 1 | A Rajasthani sweet infused with the richness of tradition , goodness of condensed milk and cardamom 250 GM",
+            "imageId": "knqvmjyae8gb5pjpa3dr",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 19000,
+            "variants": {},
+            "variantsV2": {},
+            "itemAttribute": {
+              "vegClassifier": "VEG",
+              "portionSize": "Serves 1"
+            },
+            "ribbon": {},
+            "type": "ITEM",
+            "itemBadge": {},
+            "badgesV2": {},
+            "ratings": {
+              "aggregatedRating": {}
+            }
+          },
+          "analytics": {},
+          "hideRestaurantDetails": true
+        }
+      },
+      {
+        "card": {
+          "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+          "info": {
+            "id": "120284277",
+            "name": "Rajasthani Pedha 500 Gm",
+            "category": "Sweet",
+            "description": "Serves 1 | A Rajasthani sweet infused with the richness of tradition , goodness of condensed milk and cardamom 500 GM",
+            "imageId": "knqvmjyae8gb5pjpa3dr",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 37000,
+            "variants": {},
+            "variantsV2": {},
+            "itemAttribute": {
+              "vegClassifier": "VEG",
+              "portionSize": "Serves 1"
+            },
+            "ribbon": {},
+            "type": "ITEM",
+            "itemBadge": {},
+            "badgesV2": {},
+            "ratings": {
+              "aggregatedRating": {}
+            }
+          },
+          "analytics": {},
+          "hideRestaurantDetails": true
+        }
+      },
+      {
+        "card": {
+          "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+          "info": {
+            "id": "120284283",
+            "name": "Rasgulla 500 Tin Gm",
+            "category": "Sweet",
+            "description": "Serves 1 | Juicy, fluffy, indulgent treats of rasgulla soaked in sugar syrup. 500 gm",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 12500,
+            "variants": {},
+            "variantsV2": {},
+            "itemAttribute": {
+              "vegClassifier": "VEG",
+              "portionSize": "Serves 1"
+            },
+            "ribbon": {},
+            "type": "ITEM",
+            "itemBadge": {},
+            "badgesV2": {},
+            "ratings": {
+              "aggregatedRating": {
+                "rating": "4.7",
+                "ratingCount": "3 ratings",
+                "ratingCountV2": "3"
+              }
+            }
+          },
+          "analytics": {},
+          "hideRestaurantDetails": true
+        }
+      },
+      {
+        "card": {
+          "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+          "info": {
+            "id": "120284288",
+            "name": "Sada Soan Papdi 500Gm",
+            "category": "Sweet",
+            "description": "Serves 1 | Luxurious, flaky cubes of besan and sweet milk that melt in your mouth. Intricately layered with the mouthwatering flavours of cardamom. This original cotton candy confection of India is a treat for the young and the old! 500GM",
+            "imageId": "yl6uw4ejbxia6mtemksr",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 13000,
+            "variants": {},
+            "variantsV2": {},
+            "itemAttribute": {
+              "vegClassifier": "VEG",
+              "portionSize": "Serves 1"
+            },
+            "ribbon": {},
+            "type": "ITEM",
+            "itemBadge": {},
+            "badgesV2": {},
+            "ratings": {
+              "aggregatedRating": {}
+            }
+          },
+          "analytics": {},
+          "hideRestaurantDetails": true
+        }
+      },
+      {
+        "card": {
+          "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+          "info": {
+            "id": "120284289",
+            "name": "Santra Burfi 250 Gm",
+            "category": "Sweet",
+            "description": "Serves 1 | Soft fudge made with juicy, pulpy oranges, ash gourd and creamy milk. A tribute to the rich orange harvests of Nagpur, Haldiram's Orange Burfee is beloved by the young and the old alike. A perfect ending to a hearty meal with your loved ones. 250 GM",
+            "imageId": "lsslsd3nzoekns1pyopl",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 16500,
+            "variants": {},
+            "variantsV2": {},
+            "itemAttribute": {
+              "vegClassifier": "VEG",
+              "portionSize": "Serves 1"
+            },
+            "ribbon": {
+              "text": "Bestseller",
+              "textColor": "#ffffff",
+              "topBackgroundColor": "#d53d4c",
+              "bottomBackgroundColor": "#b02331"
+            },
+            "type": "ITEM",
+            "itemBadge": {},
+            "badgesV2": {},
+            "isBestseller": true,
+            "ratings": {
+              "aggregatedRating": {
+                "rating": "4.6",
+                "ratingCount": "3 ratings",
+                "ratingCountV2": "3"
+              }
+            }
+          },
+          "analytics": {},
+          "hideRestaurantDetails": true
+        }
+      },
+      {
+        "card": {
+          "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+          "info": {
+            "id": "120284297",
+            "name": "Soan Cake Flavour 400Gm",
+            "category": "Sweet",
+            "description": "Serves 1",
+            "imageId": "8fdae91a8162ad6327f5b708e5abb757",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 15500,
+            "variants": {},
+            "variantsV2": {},
+            "itemAttribute": {
+              "vegClassifier": "VEG",
+              "portionSize": "Serves 1"
+            },
+            "ribbon": {},
+            "type": "ITEM",
+            "itemBadge": {},
+            "badgesV2": {},
+            "ratings": {
+              "aggregatedRating": {}
+            }
+          },
+          "analytics": {},
+          "hideRestaurantDetails": true
+        }
+      },
+      {
+        "card": {
+          "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+          "info": {
+            "id": "120284300",
+            "name": "Soan Cake(Pl.Box) 400 Gm",
+            "category": "Sweet",
+            "description": "Serves 1 | \"Soan Papdi re-invented as a soft, luxurious cake infused with a \nflavourful blast of cardamom and dry fruits. With every bite so rich and \ndelicious, Soan Cake is an all-time flavourite dessert from Haldiram's 400 GM\"",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 13000,
+            "variants": {},
+            "variantsV2": {},
+            "itemAttribute": {
+              "vegClassifier": "VEG",
+              "portionSize": "Serves 1"
+            },
+            "ribbon": {},
+            "type": "ITEM",
+            "itemBadge": {},
+            "badgesV2": {},
+            "ratings": {
+              "aggregatedRating": {}
+            }
+          },
+          "analytics": {},
+          "hideRestaurantDetails": true
+        }
+      },
+      {
+        "card": {
+          "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+          "info": {
+            "id": "120284302",
+            "name": "Sp Malai Pedha 250 Gm",
+            "category": "Sweet",
+            "description": "Serves 1 | \"Malai Peda is one of the famous Indian mithai (dessert). These soft melt in-your-mouth Malai Pedas are so delicious that nobody can resist. Sold \nBy : MM Mithaiwala Traditional Indian sweet 100 % vegetarian A \nQuality Product Packed in hygienically safe condition Perfect Sweet For \nEvery Occasion\n 250 GM\"",
+            "imageId": "pdgpyfufsxar2bptjxkv",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 18500,
+            "variants": {},
+            "variantsV2": {},
+            "itemAttribute": {
+              "vegClassifier": "VEG",
+              "portionSize": "Serves 1"
+            },
+            "ribbon": {},
+            "type": "ITEM",
+            "itemBadge": {},
+            "badgesV2": {},
+            "ratings": {
+              "aggregatedRating": {}
+            }
+          },
+          "analytics": {},
+          "hideRestaurantDetails": true
+        }
+      },
+      {
+        "card": {
+          "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+          "info": {
+            "id": "120120358",
+            "name": "Flavourful Fusions@340",
+            "category": "Sweet",
+            "description": "Serves 1 | The Assorted Burfee Mix, by Haldiram’s has a delicious assortment of \nMoong Burfee, Mysore Pak & Dodha Burfee. Whether you have guests \nat home or simply craving mouth-watering sweets after dinner, this \nspecial assorted burfee mix is always an ideal choice.",
+            "imageId": "ysvzzbm640iiscc3qno9",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 36000,
+            "variants": {},
+            "variantsV2": {},
+            "itemAttribute": {
+              "vegClassifier": "VEG",
+              "portionSize": "Serves 1"
+            },
+            "ribbon": {},
+            "type": "ITEM",
+            "itemBadge": {},
+            "badgesV2": {},
+            "ratings": {
+              "aggregatedRating": {}
+            }
+          },
+          "analytics": {},
+          "hideRestaurantDetails": true
+        }
+      },
+      {
+        "card": {
+          "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+          "info": {
+            "id": "120284305",
+            "name": "Pineapple Delight 125Gm",
+            "category": "Sweet",
+            "description": "Serves 1",
+            "imageId": "eszwsjdf9rrkvg417ige",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 17500,
+            "variants": {},
+            "variantsV2": {},
+            "itemAttribute": {
+              "vegClassifier": "VEG",
+              "portionSize": "Serves 1"
+            },
+            "ribbon": {},
+            "type": "ITEM",
+            "itemBadge": {},
+            "badgesV2": {},
+            "ratings": {
+              "aggregatedRating": {}
+            }
+          },
+          "analytics": {},
+          "hideRestaurantDetails": true
+        }
+      },
+      {
+        "card": {
+          "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+          "info": {
+            "id": "120284306",
+            "name": "Strawerry Delight 125Gm",
+            "category": "Sweet",
+            "description": "Serves 1 | STRAWERRY DELIGHT 125GM 125GM",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 17500,
+            "variants": {},
+            "variantsV2": {},
+            "itemAttribute": {
+              "vegClassifier": "VEG",
+              "portionSize": "Serves 1"
+            },
+            "ribbon": {},
+            "type": "ITEM",
+            "itemBadge": {},
+            "badgesV2": {},
+            "ratings": {
+              "aggregatedRating": {}
+            }
+          },
+          "analytics": {},
+          "hideRestaurantDetails": true
+        }
+      },
+      {
+        "card": {
+          "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+          "info": {
+            "id": "120284307",
+            "name": "Blueberry Delight 125Gm",
+            "category": "Sweet",
+            "description": "Serves 1",
+            "imageId": "ft00rhfijpebrncbosj1",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 17500,
+            "variants": {},
+            "variantsV2": {},
+            "itemAttribute": {
+              "vegClassifier": "VEG",
+              "portionSize": "Serves 1"
+            },
+            "ribbon": {},
+            "type": "ITEM",
+            "itemBadge": {},
+            "badgesV2": {},
+            "ratings": {
+              "aggregatedRating": {}
+            }
+          },
+          "analytics": {},
+          "hideRestaurantDetails": true
+        }
+      },
+      {
+        "card": {
+          "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+          "info": {
+            "id": "120284308",
+            "name": "Kiwi Delight 125Gm",
+            "category": "Sweet",
+            "description": "Serves 1",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 17500,
+            "variants": {},
+            "variantsV2": {},
+            "itemAttribute": {
+              "vegClassifier": "VEG",
+              "portionSize": "Serves 1"
+            },
+            "ribbon": {},
+            "type": "ITEM",
+            "itemBadge": {},
+            "badgesV2": {},
+            "ratings": {
+              "aggregatedRating": {}
+            }
+          },
+          "analytics": {},
+          "hideRestaurantDetails": true
+        }
+      },
+      {
+        "card": {
+          "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+          "info": {
+            "id": "120284310",
+            "name": "Cranberry Delight 125Gm",
+            "category": "Sweet",
+            "description": "Serves 1",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 17500,
+            "variants": {},
+            "variantsV2": {},
+            "itemAttribute": {
+              "vegClassifier": "VEG",
+              "portionSize": "Serves 1"
+            },
+            "ribbon": {},
+            "type": "ITEM",
+            "itemBadge": {},
+            "badgesV2": {},
+            "ratings": {
+              "aggregatedRating": {}
+            }
+          },
+          "analytics": {},
+          "hideRestaurantDetails": true
+        }
+      },
+      {
+        "card": {
+          "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+          "info": {
+            "id": "120284320",
+            "name": "Roasted Chana Laddu 250 Gm",
+            "category": "Sweet",
+            "description": "Serves 1 | Roasted Channa Laddu Delicious and mouth watering sweets from the house of Haldiram's 250 GM",
+            "imageId": "cd2cd6f39c386781a29522b1b88691cc",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 16000,
+            "variants": {},
+            "variantsV2": {},
+            "itemAttribute": {
+              "vegClassifier": "VEG",
+              "portionSize": "Serves 1"
+            },
+            "ribbon": {},
+            "type": "ITEM",
+            "itemBadge": {},
+            "badgesV2": {},
+            "ratings": {
+              "aggregatedRating": {}
+            }
+          },
+          "analytics": {},
+          "hideRestaurantDetails": true
+        }
+      },
+      {
+        "card": {
+          "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+          "info": {
+            "id": "120284323",
+            "name": "Assorted Kaju Katli 500Gm",
+            "category": "Sweet",
+            "description": "Serves 1 | Assorted kaju katli is the combination of three \ndifferent flavours including KesarKaju Katli,Rose Kaju Katli,and Kaju \nKatli freshly packed in a beautiful gift wrap for all your occasions. 500gm",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 55000,
+            "variants": {},
+            "variantsV2": {},
+            "itemAttribute": {
+              "vegClassifier": "VEG",
+              "portionSize": "Serves 1"
+            },
+            "ribbon": {},
+            "type": "ITEM",
+            "itemBadge": {},
+            "badgesV2": {},
+            "ratings": {
+              "aggregatedRating": {}
+            }
+          },
+          "analytics": {},
+          "hideRestaurantDetails": true
+        }
+      },
+      {
+        "card": {
+          "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+          "info": {
+            "id": "120284339",
+            "name": "Kaju Soan Cake 250Gm",
+            "category": "Sweet",
+            "description": "Serves 1 | Kaju Soan Cake as soft as melt-in-mouth,flavorful and nutritious delight made from handpicked cashews,enriched with almonds and pistachios.With every bite so rich and delicious, Kaju Soan Cake is new arrival dessert from Haldiram's Nagpur. 250gm",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 30000,
+            "variants": {},
+            "variantsV2": {},
+            "itemAttribute": {
+              "vegClassifier": "VEG",
+              "portionSize": "Serves 1"
+            },
+            "ribbon": {},
+            "type": "ITEM",
+            "itemBadge": {},
+            "badgesV2": {},
+            "ratings": {
+              "aggregatedRating": {}
+            }
+          },
+          "analytics": {},
+          "hideRestaurantDetails": true
+        }
+      },
+      {
+        "card": {
+          "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+          "info": {
+            "id": "120284349",
+            "name": "Chery Delight 175Gm",
+            "category": "Sweet",
+            "description": "Serves 1",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 17500,
+            "variants": {},
+            "variantsV2": {},
+            "itemAttribute": {
+              "vegClassifier": "VEG",
+              "portionSize": "Serves 1"
+            },
+            "ribbon": {},
+            "type": "ITEM",
+            "itemBadge": {},
+            "badgesV2": {},
+            "ratings": {
+              "aggregatedRating": {}
+            }
+          },
+          "analytics": {},
+          "hideRestaurantDetails": true
+        }
+      }
+    ]
+  },
+  {
+    "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+    "title": "Namkeens",
+    "itemCards": [
+      {
+        "card": {
+          "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+          "info": {
+            "id": "120285319",
+            "name": "Handcrafted Bhujia Since 1913,   500 Gm",
+            "category": "Namkeens",
+            "description": "Serves 1",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 17500,
+            "variants": {},
+            "variantsV2": {},
+            "itemAttribute": {
+              "vegClassifier": "VEG",
+              "portionSize": "Serves 1"
+            },
+            "ribbon": {},
+            "type": "ITEM",
+            "itemBadge": {},
+            "badgesV2": {},
+            "ratings": {
+              "aggregatedRating": {}
+            }
+          },
+          "analytics": {},
+          "hideRestaurantDetails": true
+        }
+      },
+      {
+        "card": {
+          "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+          "info": {
+            "id": "120285324",
+            "name": "Handcrafted Bhujia Since 1913,  1.5 Kg",
+            "category": "Namkeens",
+            "description": "Serves 1",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 47500,
+            "variants": {},
+            "variantsV2": {},
+            "itemAttribute": {
+              "vegClassifier": "VEG",
+              "portionSize": "Serves 1"
+            },
+            "ribbon": {},
+            "type": "ITEM",
+            "itemBadge": {},
+            "badgesV2": {},
+            "ratings": {
+              "aggregatedRating": {}
+            }
+          },
+          "analytics": {},
+          "hideRestaurantDetails": true
+        }
+      },
+      {
+        "card": {
+          "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+          "info": {
+            "id": "122981834",
+            "name": "Khari Boondi 200Gm",
+            "category": "Namkeens",
+            "description": "Serves 1",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 5200,
+            "variants": {},
+            "variantsV2": {},
+            "itemAttribute": {
+              "vegClassifier": "VEG",
+              "portionSize": "Serves 1"
+            },
+            "ribbon": {},
+            "type": "ITEM",
+            "itemBadge": {},
+            "badgesV2": {},
+            "ratings": {
+              "aggregatedRating": {}
+            }
+          },
+          "analytics": {},
+          "hideRestaurantDetails": true
+        }
+      },
+      {
+        "card": {
+          "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+          "info": {
+            "id": "120284421",
+            "name": "Chatpata Dal 200 Gm",
+            "category": "Namkeens",
+            "description": "Serves 1 | \"Chatpata Dal is a classic Haldiram's snack that is equal parts tangy and \nspicy. These tangy, crunchy lentils are flavoured with a blast of spices \nand add texture to every meal. This snack is exactly what you need after \na long day! 200 GM\"",
+            "imageId": "ec801fe6b6f961faec2241c71ac6ef73",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 4700,
+            "variants": {},
+            "variantsV2": {},
+            "itemAttribute": {
+              "vegClassifier": "VEG",
+              "portionSize": "Serves 1"
+            },
+            "ribbon": {},
+            "type": "ITEM",
+            "itemBadge": {},
+            "badgesV2": {},
+            "ratings": {
+              "aggregatedRating": {}
+            }
+          },
+          "analytics": {},
+          "hideRestaurantDetails": true
+        }
+      },
+      {
+        "card": {
+          "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+          "info": {
+            "id": "120284434",
+            "name": "Dal Biji 150Gm",
+            "category": "Namkeens",
+            "description": "Serves 1 | A delicious mix of crunchy besan sev, lentils, and fresh muskmelon brought together with a flavourful blast of spices. With a recipe dating back to generations, Dal Biji is mouthwateringly unique and retains the authentic taste of Indian flavours 150 GMS",
+            "imageId": "3d5e1d5d18f239124df1457ab5e466b7",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 4000,
+            "variants": {},
+            "variantsV2": {},
+            "itemAttribute": {
+              "vegClassifier": "VEG",
+              "portionSize": "Serves 1"
+            },
+            "ribbon": {},
+            "type": "ITEM",
+            "itemBadge": {},
+            "badgesV2": {},
+            "ratings": {
+              "aggregatedRating": {}
+            }
+          },
+          "analytics": {},
+          "hideRestaurantDetails": true
+        }
+      },
+      {
+        "card": {
+          "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+          "info": {
+            "id": "120284443",
+            "name": "Falhari Chiwda 200 Gm",
+            "category": "Namkeens",
+            "description": "Serves 1 | \"A wholesome mix of fried potato sticks, crunchy peanuts and Haldiram's \ntrademark masala, Phalhari Chiwda is made with quality ingredients. \nStock up on this tasty essential for teatime snacking and a quick meal \nwhen fasting. 200 GM\"",
+            "imageId": "f92bb819b7833541d1e14bd7c2a79acc",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 4700,
+            "variants": {},
+            "variantsV2": {},
+            "itemAttribute": {
+              "vegClassifier": "VEG",
+              "portionSize": "Serves 1"
+            },
+            "ribbon": {},
+            "type": "ITEM",
+            "itemBadge": {},
+            "badgesV2": {},
+            "ratings": {
+              "aggregatedRating": {}
+            }
+          },
+          "analytics": {},
+          "hideRestaurantDetails": true
+        }
+      },
+      {
+        "card": {
+          "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+          "info": {
+            "id": "120284465",
+            "name": "Khatta Mitha 220 Gm",
+            "category": "Namkeens",
+            "description": "Serves 1 | Deliciously sweet and sour, this mix of fried green peas, boondi, lemon sev and classic namkeen is an extraordinary treat to your senses. Give your teatime an ideal companion, that's perfectly tangy and sweet! 220 gm",
+            "imageId": "616411370654f3390241a909df4d796b",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 5000,
+            "variants": {},
+            "variantsV2": {},
+            "itemAttribute": {
+              "vegClassifier": "VEG",
+              "portionSize": "Serves 1"
+            },
+            "ribbon": {},
+            "type": "ITEM",
+            "itemBadge": {},
+            "badgesV2": {},
+            "ratings": {
+              "aggregatedRating": {}
+            }
+          },
+          "analytics": {},
+          "hideRestaurantDetails": true
+        }
+      },
+      {
+        "card": {
+          "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+          "info": {
+            "id": "120284490",
+            "name": "Murukku (Chakoli) 200 Gm",
+            "category": "Namkeens",
+            "description": "Serves 1 | Buttery bits of fried rice and besan, bursting with flavours in every bite. This South Indian delicacy is a rendition of the popular snack, Murukku. Treat yourself to this deliciously twisty snack from Haldiram's! 200 GM",
+            "imageId": "133fede226058f79d1c01085e03d2c6b",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 6500,
+            "variants": {},
+            "variantsV2": {},
+            "itemAttribute": {
+              "vegClassifier": "VEG",
+              "portionSize": "Serves 1"
+            },
+            "ribbon": {},
+            "type": "ITEM",
+            "itemBadge": {},
+            "badgesV2": {},
+            "ratings": {
+              "aggregatedRating": {}
+            }
+          },
+          "analytics": {},
+          "hideRestaurantDetails": true
+        }
+      },
+      {
+        "card": {
+          "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+          "info": {
+            "id": "120284540",
+            "name": "Moong Dal 200Gm Tube",
+            "category": "Namkeens",
+            "description": "Serves 1 | Split moong beans coated in a delectable selection of spices. An all-time flavourite offering from Haldiram's, you don't need a special time or occasion to snack on these! 200GM",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 7000,
+            "variants": {},
+            "variantsV2": {},
+            "itemAttribute": {
+              "vegClassifier": "VEG",
+              "portionSize": "Serves 1"
+            },
+            "ribbon": {},
+            "type": "ITEM",
+            "itemBadge": {},
+            "badgesV2": {},
+            "ratings": {
+              "aggregatedRating": {}
+            }
+          },
+          "analytics": {},
+          "hideRestaurantDetails": true
+        }
+      },
+      {
+        "card": {
+          "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+          "info": {
+            "id": "120284548",
+            "name": "Chana Jor Gram 200Gm Tube",
+            "category": "Namkeens",
+            "description": "Serves 1 | CHANA JOR GRAM 200GM tub .",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 6000,
+            "variants": {},
+            "variantsV2": {},
+            "itemAttribute": {
+              "vegClassifier": "VEG",
+              "portionSize": "Serves 1"
+            },
+            "ribbon": {},
+            "type": "ITEM",
+            "itemBadge": {},
+            "badgesV2": {},
+            "ratings": {
+              "aggregatedRating": {}
+            }
+          },
+          "analytics": {},
+          "hideRestaurantDetails": true
+        }
+      },
+      {
+        "card": {
+          "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+          "info": {
+            "id": "120284551",
+            "name": "Chatpatadal 200Gm Tube",
+            "category": "Namkeens",
+            "description": "Serves 1 | Chatpata Dal is a classic Haldiram's snack that is equal parts tangy and spicy. These tangy, crunchy lentils are flavoured with a blast of spices and add texture to every meal. This snack is exactly what you need after a long day!  200GM",
+            "imageId": "ec801fe6b6f961faec2241c71ac6ef73",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 6000,
+            "variants": {},
+            "variantsV2": {},
+            "itemAttribute": {
+              "vegClassifier": "VEG",
+              "portionSize": "Serves 1"
+            },
+            "ribbon": {},
+            "type": "ITEM",
+            "itemBadge": {},
+            "badgesV2": {},
+            "ratings": {
+              "aggregatedRating": {}
+            }
+          },
+          "analytics": {},
+          "hideRestaurantDetails": true
+        }
+      }
+    ]
+  },
+  {
+    "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+    "title": "Bengali sweets",
+    "itemCards": [
+      {
+        "card": {
+          "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+          "info": {
+            "id": "120120328",
+            "name": "Rasmalai",
+            "category": "Bengali sweets",
+            "description": "Serves 1 | Rasmalai Delicious and mouth watering Bengali  sweets from the house of Haldiram's",
+            "imageId": "e8fd82a56060fd76b6a14562a1fdc619",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 4500,
+            "variants": {},
+            "variantsV2": {},
+            "itemAttribute": {
+              "vegClassifier": "VEG",
+              "portionSize": "Serves 1"
+            },
+            "ribbon": {},
+            "type": "ITEM",
+            "itemBadge": {},
+            "badgesV2": {},
+            "ratings": {
+              "aggregatedRating": {
+                "rating": "4.0",
+                "ratingCount": "9 ratings",
+                "ratingCountV2": "9"
+              }
+            }
+          },
+          "analytics": {},
+          "hideRestaurantDetails": true
+        }
+      },
+      {
+        "card": {
+          "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+          "info": {
+            "id": "120120331",
+            "name": "Shahi Toast",
+            "category": "Bengali sweets",
+            "description": "Serves 1 | Shahi Toast Delicious and mouth watering Bengali  sweets from the house of Haldiram's",
+            "imageId": "4ed8bffe4965ed06e57d9230c04ac029",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 3500,
+            "variants": {},
+            "variantsV2": {},
+            "itemAttribute": {
+              "vegClassifier": "VEG",
+              "portionSize": "Serves 1"
+            },
+            "ribbon": {},
+            "type": "ITEM",
+            "itemBadge": {},
+            "badgesV2": {},
+            "ratings": {
+              "aggregatedRating": {}
+            }
+          },
+          "analytics": {},
+          "hideRestaurantDetails": true
+        }
+      },
+      {
+        "card": {
+          "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+          "info": {
+            "id": "120120333",
+            "name": "Malai Chap",
+            "category": "Bengali sweets",
+            "description": "Serves 1 | Malai Chap Delicious and mouth watering Bengali  sweets from the house of Haldiram's",
+            "imageId": "87eb63edfe62143a900436c7310b8d18",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 3500,
+            "variants": {},
+            "variantsV2": {},
+            "itemAttribute": {
+              "vegClassifier": "VEG",
+              "portionSize": "Serves 1"
+            },
+            "ribbon": {},
+            "type": "ITEM",
+            "itemBadge": {},
+            "badgesV2": {},
+            "ratings": {
+              "aggregatedRating": {}
+            }
+          },
+          "analytics": {},
+          "hideRestaurantDetails": true
+        }
+      },
+      {
+        "card": {
+          "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+          "info": {
+            "id": "120120342",
+            "name": "Kesar Malai Cham Cham",
+            "category": "Bengali sweets",
+            "description": "Serves 1 | Kesar Malai Cham Cham Delicious and mouth watering Bengali  sweets from the house of Haldiram's",
+            "imageId": "fda5099442db48b4b4da98ff9c6ea464",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 4000,
+            "variants": {},
+            "variantsV2": {},
+            "itemAttribute": {
+              "vegClassifier": "VEG",
+              "portionSize": "Serves 1"
+            },
+            "ribbon": {},
+            "type": "ITEM",
+            "itemBadge": {},
+            "badgesV2": {},
+            "ratings": {
+              "aggregatedRating": {}
+            }
+          },
+          "analytics": {},
+          "hideRestaurantDetails": true
+        }
+      },
+      {
+        "card": {
+          "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+          "info": {
+            "id": "120120344",
+            "name": "Mother India",
+            "category": "Bengali sweets",
+            "description": "Serves 1 | Mother India Delicious and mouth watering Bengali  sweets from the house of Haldiram's",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 3500,
+            "variants": {},
+            "variantsV2": {},
+            "itemAttribute": {
+              "vegClassifier": "VEG",
+              "portionSize": "Serves 1"
+            },
+            "ribbon": {},
+            "type": "ITEM",
+            "itemBadge": {},
+            "badgesV2": {},
+            "ratings": {
+              "aggregatedRating": {}
+            }
+          },
+          "analytics": {},
+          "hideRestaurantDetails": true
+        }
+      },
+      {
+        "card": {
+          "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+          "info": {
+            "id": "120120347",
+            "name": "Kheer Kadam",
+            "category": "Bengali sweets",
+            "description": "Serves 1 | Kheer Kadam Delicious and mouth watering Bengali  sweets from the house of Haldiram's",
+            "imageId": "087b446b8b7489e2ef00231e78445c00",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 2000,
+            "variants": {},
+            "variantsV2": {},
+            "itemAttribute": {
+              "vegClassifier": "VEG",
+              "portionSize": "Serves 1"
+            },
+            "ribbon": {},
+            "type": "ITEM",
+            "itemBadge": {},
+            "badgesV2": {},
+            "ratings": {
+              "aggregatedRating": {}
+            }
+          },
+          "analytics": {},
+          "hideRestaurantDetails": true
+        }
+      },
+      {
+        "card": {
+          "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+          "info": {
+            "id": "120120350",
+            "name": "Mango Tofaa",
+            "category": "Bengali sweets",
+            "description": "Serves 1 | Mango Tofaa Delicious and mouth watering Bengali  sweets from the house of Haldiram's",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 5500,
+            "variants": {},
+            "variantsV2": {},
+            "itemAttribute": {
+              "vegClassifier": "VEG",
+              "portionSize": "Serves 1"
+            },
+            "ribbon": {},
+            "type": "ITEM",
+            "itemBadge": {},
+            "badgesV2": {},
+            "ratings": {
+              "aggregatedRating": {}
+            }
+          },
+          "analytics": {},
+          "hideRestaurantDetails": true
+        }
+      }
+    ]
+  },
+  {
+    "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+    "title": "Pastry",
+    "itemCards": [
+      {
+        "card": {
+          "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+          "info": {
+            "id": "120120379",
+            "name": "Choco Chip Pastry",
+            "category": "Pastry",
+            "description": "Serves 1 | Delicious chocolate pastry and flecked with chocochips  Decorated with chocolate frosting.",
+            "imageId": "1aa6507032e65565d3a37856a5755675",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 7500,
+            "variants": {},
+            "variantsV2": {},
+            "itemAttribute": {
+              "vegClassifier": "VEG",
+              "portionSize": "Serves 1"
+            },
+            "ribbon": {},
+            "type": "ITEM",
+            "itemBadge": {},
+            "badgesV2": {},
+            "ratings": {
+              "aggregatedRating": {}
+            }
+          },
+          "analytics": {},
+          "hideRestaurantDetails": true
+        }
+      },
+      {
+        "card": {
+          "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+          "info": {
+            "id": "120120236",
+            "name": "Rasmalai Pastry",
+            "category": "Pastry",
+            "description": "Serves 1 | Rasmalai pastry is made from light vanilla sponge, pistachios and fresh angoor malai with a mouth watering taste.",
+            "imageId": "8731b8a9e5530f7d56fe95a419d70c62",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 7500,
+            "variants": {},
+            "variantsV2": {},
+            "itemAttribute": {
+              "vegClassifier": "VEG",
+              "portionSize": "Serves 1"
+            },
+            "ribbon": {
+              "text": "Bestseller",
+              "textColor": "#ffffff",
+              "topBackgroundColor": "#d53d4c",
+              "bottomBackgroundColor": "#b02331"
+            },
+            "type": "ITEM",
+            "itemBadge": {},
+            "badgesV2": {},
+            "isBestseller": true,
+            "ratings": {
+              "aggregatedRating": {}
+            }
+          },
+          "analytics": {},
+          "hideRestaurantDetails": true
+        }
+      },
+      {
+        "card": {
+          "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+          "info": {
+            "id": "120120253",
+            "name": "Ferrero Rocher Pastry",
+            "category": "Pastry",
+            "description": "Serves 1 | \"Experience the goodness of ferrero rocher and chocolate pastry in every bite !\n \"",
+            "imageId": "abbcc45890a98b33d64aa35bc8277660",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 9500,
+            "variants": {},
+            "variantsV2": {},
+            "itemAttribute": {
+              "vegClassifier": "VEG",
+              "portionSize": "Serves 1"
+            },
+            "ribbon": {},
+            "type": "ITEM",
+            "itemBadge": {},
+            "badgesV2": {},
+            "ratings": {
+              "aggregatedRating": {}
+            }
+          },
+          "analytics": {},
+          "hideRestaurantDetails": true
+        }
+      }
+    ]
+  },
+  {
+    "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+    "title": "Cake",
+    "itemCards": [
+      {
+        "card": {
+          "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+          "info": {
+            "id": "120284584",
+            "name": "Rasmalai Cake 1/2 Kg",
+            "category": "Cake",
+            "description": "Serves 1 | Rasmalai cake is made from light vanilla sponge, pistachios and fresh angoor malai with a mouth watering taste.",
+            "imageId": "c18c88c09e8658ae98be015d97268a41",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 49500,
+            "variants": {},
+            "variantsV2": {},
+            "itemAttribute": {
+              "vegClassifier": "VEG",
+              "portionSize": "Serves 1"
+            },
+            "ribbon": {},
+            "type": "ITEM",
+            "itemBadge": {},
+            "badgesV2": {},
+            "ratings": {
+              "aggregatedRating": {}
+            }
+          },
+          "analytics": {},
+          "hideRestaurantDetails": true
+        }
+      },
+      {
+        "card": {
+          "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+          "info": {
+            "id": "120284938",
+            "name": "Rasmalai Bento Cake 200 GM",
+            "category": "Cake",
+            "description": "Serves 1",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 12000,
+            "variants": {},
+            "variantsV2": {},
+            "itemAttribute": {
+              "vegClassifier": "VEG",
+              "portionSize": "Serves 1"
+            },
+            "ribbon": {},
+            "type": "ITEM",
+            "itemBadge": {},
+            "badgesV2": {},
+            "ratings": {
+              "aggregatedRating": {
+                "rating": "4.0",
+                "ratingCount": "3 ratings",
+                "ratingCountV2": "3"
+              }
+            }
+          },
+          "analytics": {},
+          "hideRestaurantDetails": true
+        }
+      },
+      {
+        "card": {
+          "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+          "info": {
+            "id": "120284961",
+            "name": "Pineapple Bento Cake 200 GM",
+            "category": "Cake",
+            "description": "Serves 1",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 12000,
+            "variants": {},
+            "variantsV2": {},
+            "itemAttribute": {
+              "vegClassifier": "VEG",
+              "portionSize": "Serves 1"
+            },
+            "ribbon": {},
+            "type": "ITEM",
+            "itemBadge": {},
+            "badgesV2": {},
+            "ratings": {
+              "aggregatedRating": {}
+            }
+          },
+          "analytics": {},
+          "hideRestaurantDetails": true
+        }
+      }
+    ]
+  },
+  {
+    "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+    "title": "Ready to Eat",
+    "itemCards": [
+      {
+        "card": {
+          "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+          "info": {
+            "id": "120285064",
+            "name": "Dal Palak 300 Gm",
+            "category": "Ready to Eat",
+            "description": "Serves 1",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 9900,
+            "variants": {},
+            "variantsV2": {},
+            "itemAttribute": {
+              "vegClassifier": "VEG",
+              "portionSize": "Serves 1"
+            },
+            "ribbon": {},
+            "type": "ITEM",
+            "itemBadge": {},
+            "badgesV2": {},
+            "ratings": {
+              "aggregatedRating": {}
+            }
+          },
+          "analytics": {},
+          "hideRestaurantDetails": true
+        }
+      },
+      {
+        "card": {
+          "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+          "info": {
+            "id": "120285082",
+            "name": "Punjabi Kadhi Pakoda 300 Gm",
+            "category": "Ready to Eat",
+            "description": "Serves 1",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 9900,
+            "variants": {},
+            "variantsV2": {},
+            "itemAttribute": {
+              "vegClassifier": "VEG",
+              "portionSize": "Serves 1"
+            },
+            "ribbon": {},
+            "type": "ITEM",
+            "itemBadge": {},
+            "badgesV2": {},
+            "ratings": {
+              "aggregatedRating": {}
+            }
+          },
+          "analytics": {},
+          "hideRestaurantDetails": true
+        }
+      }
+    ]
+  },
+  {
+    "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+    "title": "Beverage",
+    "itemCards": [
+      {
+        "card": {
+          "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+          "info": {
+            "id": "120120450",
+            "name": "Matka Jhatka",
+            "category": "Beverage",
+            "description": "Serves 1",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 1000,
+            "variants": {},
+            "variantsV2": {},
+            "itemAttribute": {
+              "vegClassifier": "VEG",
+              "portionSize": "Serves 1"
+            },
+            "ribbon": {},
+            "type": "ITEM",
+            "itemBadge": {},
+            "badgesV2": {},
+            "ratings": {
+              "aggregatedRating": {}
+            }
+          },
+          "analytics": {},
+          "hideRestaurantDetails": true
+        }
+      }
+    ]
+  },
+  {
+    "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+    "title": "Bakery",
+    "itemCards": [
+      {
+        "card": {
+          "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+          "info": {
+            "id": "120284631",
+            "name": "Chai Puri 200 Gm",
+            "category": "Bakery",
+            "description": "Serves 1",
+            "imageId": "f0562602d3bf4d65191154566d148673",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 6500,
+            "variants": {},
+            "variantsV2": {},
+            "itemAttribute": {
+              "vegClassifier": "VEG",
+              "portionSize": "Serves 1"
+            },
+            "ribbon": {},
+            "type": "ITEM",
+            "itemBadge": {},
+            "badgesV2": {},
+            "ratings": {
+              "aggregatedRating": {}
+            }
+          },
+          "analytics": {},
+          "hideRestaurantDetails": true
+        }
+      },
+      {
+        "card": {
+          "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+          "info": {
+            "id": "120120551",
+            "name": "Jeera Namkeen Cookies",
+            "category": "Bakery",
+            "description": "Serves 1 | Mouth-watering namkeen biscuits made with the goodness of atta - spiced with the bold flavour of cumin. These crumbly wafers are a savoury answer to all your non-sugary cravings!",
+            "imageId": "2c09e355aabd3f0db07efa95ecb23461",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 5500,
+            "variants": {},
+            "variantsV2": {},
+            "itemAttribute": {
+              "vegClassifier": "VEG",
+              "portionSize": "Serves 1"
+            },
+            "ribbon": {},
+            "type": "ITEM",
+            "itemBadge": {},
+            "badgesV2": {},
+            "ratings": {
+              "aggregatedRating": {}
+            }
+          },
+          "analytics": {},
+          "hideRestaurantDetails": true
+        }
+      },
+      {
+        "card": {
+          "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+          "info": {
+            "id": "120284640",
+            "name": "Kaju Btr Cookies 250Gm",
+            "category": "Bakery",
+            "description": "Serves 1 | The hearty flavours of creamy cashews and butter rolled into a biscuit. With some roasted almonds thrown in for the extra flavour and crunch, Haldiram's Kaju Butter is an all-time flavourite snacking companion. Treat yourself to these buttery cookies over a steaming cup of tea or coffee.",
+            "imageId": "2564c68d45ce1aa8e4d6ce6d839fe7ac",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 9000,
+            "variants": {},
+            "variantsV2": {},
+            "itemAttribute": {
+              "vegClassifier": "VEG",
+              "portionSize": "Serves 1"
+            },
+            "ribbon": {},
+            "type": "ITEM",
+            "itemBadge": {},
+            "badgesV2": {},
+            "ratings": {
+              "aggregatedRating": {}
+            }
+          },
+          "analytics": {},
+          "hideRestaurantDetails": true
+        }
+      },
+      {
+        "card": {
+          "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+          "info": {
+            "id": "120284643",
+            "name": "Kaju Nankhi Cookies 250Gm",
+            "category": "Bakery",
+            "description": "Serves 1 | A crunchy twist on the classic nankhatai biscuits - made with desi ghee and the finest of cashew nuts. These plump discs of buttery atta cookies, bursting with the nutty flavour of kaju are an indulgent treat to your senses.",
+            "imageId": "84581b8403e48a2689e128bb58543093",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 9000,
+            "variants": {},
+            "variantsV2": {},
+            "itemAttribute": {
+              "vegClassifier": "VEG",
+              "portionSize": "Serves 1"
+            },
+            "ribbon": {},
+            "type": "ITEM",
+            "itemBadge": {},
+            "badgesV2": {},
+            "ratings": {
+              "aggregatedRating": {}
+            }
+          },
+          "analytics": {},
+          "hideRestaurantDetails": true
+        }
+      },
+      {
+        "card": {
+          "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+          "info": {
+            "id": "120284646",
+            "name": "Milk Toast 250 Gm",
+            "category": "Bakery",
+            "description": "Serves 1 | Milk Toast A perfect tea time snacks.",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 4000,
+            "variants": {},
+            "variantsV2": {},
+            "itemAttribute": {
+              "vegClassifier": "VEG",
+              "portionSize": "Serves 1"
+            },
+            "ribbon": {},
+            "type": "ITEM",
+            "itemBadge": {},
+            "badgesV2": {},
+            "ratings": {
+              "aggregatedRating": {}
+            }
+          },
+          "analytics": {},
+          "hideRestaurantDetails": true
+        }
+      }
+    ]
+  },
+  {
+    "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+    "title": "SNK",
+    "itemCards": [
+      {
+        "card": {
+          "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+          "info": {
+            "id": "120120568",
+            "name": "Samosa",
+            "category": "SNK",
+            "description": "Serves 1",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 2000,
+            "variants": {},
+            "variantsV2": {},
+            "itemAttribute": {
+              "vegClassifier": "VEG",
+              "portionSize": "Serves 1"
+            },
+            "ribbon": {},
+            "type": "ITEM",
+            "itemBadge": {},
+            "badgesV2": {},
+            "ratings": {
+              "aggregatedRating": {
+                "rating": "1.7",
+                "ratingCount": "5 ratings",
+                "ratingCountV2": "5"
+              }
+            }
+          },
+          "analytics": {},
+          "hideRestaurantDetails": true
+        }
+      },
+      {
+        "card": {
+          "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+          "info": {
+            "id": "120120574",
+            "name": "Matar Kachori",
+            "category": "SNK",
+            "description": "Serves 1",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 1500,
+            "variants": {},
+            "variantsV2": {},
+            "itemAttribute": {
+              "vegClassifier": "VEG",
+              "portionSize": "Serves 1"
+            },
+            "ribbon": {},
+            "type": "ITEM",
+            "itemBadge": {},
+            "badgesV2": {},
+            "ratings": {
+              "aggregatedRating": {}
+            }
+          },
+          "analytics": {},
+          "hideRestaurantDetails": true
+        }
+      }
+    ]
+  },
+  {
+    "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+    "title": "Dryfruit",
+    "itemCards": [
+      {
+        "card": {
+          "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+          "info": {
+            "id": "122980521",
+            "name": "Namkeen Pista 100 Gm",
+            "category": "Dryfruit",
+            "description": "Serves 1",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 19500,
+            "variants": {},
+            "variantsV2": {},
+            "itemAttribute": {
+              "vegClassifier": "VEG",
+              "portionSize": "Serves 1"
+            },
+            "ribbon": {},
+            "type": "ITEM",
+            "itemBadge": {},
+            "badgesV2": {},
+            "ratings": {
+              "aggregatedRating": {}
+            }
+          },
+          "analytics": {},
+          "hideRestaurantDetails": true
+        }
+      },
+      {
+        "card": {
+          "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+          "info": {
+            "id": "122980525",
+            "name": "Badam 100 Gm",
+            "category": "Dryfruit",
+            "description": "Serves 1",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 14500,
+            "variants": {},
+            "variantsV2": {},
+            "itemAttribute": {
+              "vegClassifier": "VEG",
+              "portionSize": "Serves 1"
+            },
+            "ribbon": {},
+            "type": "ITEM",
+            "itemBadge": {},
+            "badgesV2": {},
+            "ratings": {
+              "aggregatedRating": {}
+            }
+          },
+          "analytics": {},
+          "hideRestaurantDetails": true
+        }
+      },
+      {
+        "card": {
+          "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+          "info": {
+            "id": "122981838",
+            "name": "Kishmish 100 Gm Pouch",
+            "category": "Dryfruit",
+            "description": "Serves 1",
+            "inStock": 1,
+            "isVeg": 1,
+            "price": 11000,
+            "variants": {},
+            "variantsV2": {},
+            "itemAttribute": {
+              "vegClassifier": "VEG",
+              "portionSize": "Serves 1"
+            },
+            "ribbon": {},
+            "type": "ITEM",
+            "itemBadge": {},
+            "badgesV2": {},
+            "ratings": {
+              "aggregatedRating": {}
+            }
+          },
+          "analytics": {},
+          "hideRestaurantDetails": true
+        }
+      }
+    ]
+  }
+]

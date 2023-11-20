@@ -1,0 +1,115 @@
+{
+  "info": {
+    "id": "70056",
+    "name": "Mahesh Pav Bhaji",
+    "cloudinaryImageId": "7e112b2d284efa03657fbd6eedbfd000",
+    "locality": "Chowpati",
+    "areaName": "Athwa",
+    "costForTwo": "₹300 for two",
+    "cuisines": ["North Indian", "South Indian", "Chinese", "Street Food"],
+    "avgRating": 4.1,
+    "veg": true,
+    "feeDetails": {
+      "restaurantId": "70056",
+      "fees": [
+        {
+          "name": "BASE_DISTANCE",
+          "fee": 3500
+        },
+        {
+          "name": "BASE_TIME"
+        },
+        {
+          "name": "ANCILLARY_SURGE_FEE"
+        }
+      ],
+      "totalFee": 3500
+    },
+    "parentId": "6553",
+    "avgRatingString": "4.1",
+    "totalRatingsString": "5K+",
+    "promoted": true,
+    "adTrackingId": "cid=9126467~p=1~eid=0000018b-e8bc-b558-2572-3f0c00b50159~srvts=1700416763224~63141",
+    "sla": {
+      "deliveryTime": 22,
+      "lastMileTravel": 4.1,
+      "serviceability": "SERVICEABLE",
+      "slaString": "22 mins",
+      "lastMileTravelString": "4.1 km",
+      "iconType": "ICON_TYPE_EMPTY"
+    },
+    "availability": {
+      "nextCloseTime": "2023-11-19 23:59:00",
+      "opened": true
+    },
+    "badges": {
+      "imageBadges": [
+        {
+          "imageId": "v1695133679/badges/Pure_Veg111.png",
+          "description": "pureveg"
+        }
+      ]
+    },
+    "isOpen": true,
+    "aggregatedDiscountInfoV2": {
+      "header": "₹125 OFF",
+      "shortDescriptionList": [
+        {
+          "meta": "Use SWIGGYWEEKENDS",
+          "discountType": "Flat",
+          "operationType": "RESTAURANT"
+        }
+      ],
+      "descriptionList": [
+        {
+          "meta": "Flat ₹125 off on orders above ₹249 | Use code SWIGGYWEEKENDS",
+          "discountType": "Flat",
+          "operationType": "RESTAURANT"
+        }
+      ]
+    },
+    "type": "F",
+    "badgesV2": {
+      "entityBadges": {
+        "imageBased": {
+          "badgeObject": [
+            {
+              "attributes": {
+                "description": "pureveg",
+                "imageId": "v1695133679/badges/Pure_Veg111.png"
+              }
+            }
+          ]
+        },
+        "textBased": {},
+        "textExtendedBadges": {}
+      }
+    },
+    "orderabilityCommunication": {
+      "title": {},
+      "subTitle": {},
+      "message": {},
+      "customIcon": {}
+    },
+    "differentiatedUi": {
+      "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+      "differentiatedUiMediaDetails": {
+        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+        "lottie": {},
+        "video": {}
+      }
+    },
+    "reviewsSummary": {},
+    "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+    "restaurantOfferPresentationInfo": {}
+  },
+  "analytics": {
+    "context": "seo-data-1f727a83-7efa-439e-b6cd-a90e362f5787"
+  },
+  "cta": {
+    "link": "https://www.swiggy.com/restaurants/mahesh-pav-bhaji-chowpati-athwa-surat-70056",
+    "text": "RESTAURANT_MENU",
+    "type": "WEBLINK"
+  },
+  "widgetId": "collectionV5RestaurantListWidget_byName"
+}

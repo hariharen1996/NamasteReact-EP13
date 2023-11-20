@@ -1,0 +1,29 @@
+Assignment 13
+
+Theory
+
+1. What are different types of testing?
+=> Manual Testing 
+=> Unit Testing 
+=> Integartion Testing
+=> End-To-End Testing
+
+2. What is Enzyme?
+ Enzyme stands out for its flexibility and its easy-to-develop tests for your React code. Actually, Enzyme is more of a JavaScript testing utility that makes it easier to assert, manipulate, and traverse your React components’ output. Created by Airbnb, it adds a lot of utility functions to facilitate the component rendering, finding and interacting with elements in a way that feels similar to jQuery.
+
+3. Enzyme vs react testing library?
+The React Testing Library (RTL) is a testing utility for React applications that focuses on testing component behavior rather than implementation details. It includes built-in assertions for checking expected behaviors and a simple and intuitive API for selecting and interacting with elements in your components. Tests become less brittle and more resilient to changes in the codebase by simulating user interactions.
+
+Enzyme is a popular testing tool for React applications. It provides a set of utility functions for testing React components, similar to React Testing Library. Enzyme, on the other hand, differs from React Testing Library because it focuses on testing the implementation details of your components. 
+Enzyme includes APIs for mounting, rendering, and manipulating React components in tests. It enables you to inspect and manipulate component internal states and properties, as well as simulate user interactions. This can be beneficial when testing complex components with a lot of internal state or that interact with external services.
+
+4. What is jest and why do we use it?
+Jest is a JavaScript testing framework built by Facebook and primarily designed for React-based applications, but is also used with Babel, JavaScript, Node, Angular, and Vue. It can be used to test NestJS, Next.js, and GraphQL, too.
+
+
+Coding
+
+1. Setup React testing library
+2. Write unit tests for Header Component to test for Logo, Cart - 0 items, and online status
+3. Write an Integration test for search feature on home page
+4. write Integration test case for add to cart flow
